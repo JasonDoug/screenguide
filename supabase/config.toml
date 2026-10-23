@@ -1,0 +1,2 @@
+[functions.analyze-screen]
+verify_jwt = false
